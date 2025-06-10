@@ -47,7 +47,7 @@ This section provides a detailed **Profit & Loss Statement**, tracking revenue, 
 - **Line Chart:** Operating Expenses Trend
 - **Card Visuals:** Total Revenue, Net Profit, Operating Expense
 
-![Finance View](https://github.com/shailender1994/Business-insight-360/blob/main/Finance_view.jpg)
+![Finance View](https://github.com/shailender1994/Business-insight-360/blob/main/Page-3%20Finance%20View.png)
 
 
 ### 🔹 Key Questions & Insights:
@@ -69,7 +69,7 @@ This section tracks **gross and net sales**, helping managers evaluate sales per
 - **Table Visual:** Top 10 Products by Sales
 - **Card Visuals:** Total Gross Sales, Net Sales, % Growth
 
-![Sales View](https://github.com/shailender1994/Business-insight-360/blob/main/Sales_view.jpg)
+![Sales View](https://github.com/shailender1994/Business-insight-360/blob/main/Page-4%20Sales%20view.png)
 
 
 ### 🔹 Key Questions & Insights:
@@ -90,7 +90,7 @@ Evaluates **marketing campaign performance**, including ROI and customer engagem
 - **Bar Chart:** Campaign ROI by Quarter
 - **Line Chart:** Engagement Rate Trend
 
-![Marketing View](https://github.com/shailender1994/Business-insight-360/blob/main/Marketing_view.jpg)
+![Marketing View](https://github.com/shailender1994/Business-insight-360/blob/main/Page-5%20Marketing%20View.png)
 
 ### 🔹 Key Questions & Insights:
 1. **Which marketing channel generated the highest ROI?** → **Social Media (32%)**
@@ -110,7 +110,7 @@ Monitors **inventory levels, order fulfillment, and supply chain efficiency**.
 - **Line Chart:** Lead Time Trend
 - **Table Visual:** Supplier Performance Ratings
 
-![Supply Chain View](https://github.com/shailender1994/Business-insight-360/blob/main/Supply_chain_view.jpg)
+![Supply Chain View](https://github.com/shailender1994/Business-insight-360/blob/main/Page-6%20Supply%20chain%20View.png)
 
 
 ### 🔹 Key Questions & Insights:
@@ -131,7 +131,7 @@ Summarizes key business insights for leadership.
 - **Company Growth Trends Over 5 Years**
 - **Profitability & Risk Analysis**
 
-![Executive View](https://github.com/shailender1994/Business-insight-360/blob/main/Executive_view.jpg)
+![Executive View](https://github.com/shailender1994/Business-insight-360/blob/main/Page-7%20Executive%20view.png)
 
 ### 🔹 Key Questions & Insights:
 1. **What is the overall revenue trend?** → **Steady increase**
