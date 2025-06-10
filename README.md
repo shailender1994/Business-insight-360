@@ -35,10 +35,6 @@ The **Home Page** serves as a navigation hub, containing **bookmarks and buttons
 
 ![Home Page](https://github.com/shailender1994/Business-insight-360/blob/main/Page-1%20Home%20Page.png)
 
-**Support Overlay**
-
-![Home Page](https://github.com/shailender1994/Business-insight-360/blob/main/Home_Page.jpg)
-
 ---
 
 ## 💰 Finance View
