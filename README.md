@@ -37,6 +37,14 @@ The **Home Page** serves as a navigation hub, containing **bookmarks and buttons
 
 ---
 
+### 📘 Info Page
+- Data refresh logic
+- Download live Excel link
+
+![Info Page](https://github.com/shailender1994/Business-insight-360/blob/main/Page-2%20Info%20page.png)
+
+---
+
 ## 💰 Finance View
 ### 🔹 Description:
 This section provides a detailed **Profit & Loss Statement**, tracking revenue, operating expenses, and profit margins over multiple years.
@@ -132,6 +140,12 @@ Summarizes key business insights for leadership.
 - **Profitability & Risk Analysis**
 
 ![Executive View](https://github.com/shailender1994/Business-insight-360/blob/main/Page-7%20Executive%20view.png)
+---
+### 🛠 Support Page
+- Submit issues or feedback
+- Add new feature requests
+- Power BI learning links
+![Support View](https://github.com/shailender1994/Business-insight-360/blob/main/Page-8%20Support%20Page.png)
 
 ### 🔹 Key Questions & Insights:
 1. **What is the overall revenue trend?** → **Steady increase**
