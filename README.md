@@ -33,7 +33,7 @@ The **Home Page** serves as a navigation hub, containing **bookmarks and buttons
 - **Support Overlay Button** (Toggles additional explanations for visuals)
 - **Company Branding & Dashboard Title**
 
-![Home Page](https://github.com/shailender1994/Business-insight-360/blob/main/Home_Page.jpg)
+![Home Page](https://github.com/shailender1994/Business-insight-360/blob/main/Page-1%20Home%20Page.png)
 
 **Support Overlay**
 
